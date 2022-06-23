@@ -19,3 +19,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/mediyardnz_official/)) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=quare&labelColor=blue&logo=Twitter&logoColor=white&link=link)]([link](https://www.twitter.com/mediyardnz_13/))
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-quare&labelColor=orange&logo=StackOverflow&logoColor=white&(https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z)=(https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z))]([(https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z)](https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z))
+
+[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=mediyardeniz.1304@gmail.com)](mediyardeniz.1304@gmail.com)
