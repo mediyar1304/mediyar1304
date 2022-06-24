@@ -16,9 +16,11 @@
 
 ###  Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-quare&labelColor=blue&logo=Twitter&logoColor=white&link=twitter.com/mediyardnz_13)](twitter.com/mediyardnz_13) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-quare&labelColor=blue&logo=Linkedin&logoColor=white&link=link)](link) 
-[![stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-orange?style=flat-quare&labelColor=orange&logo=stackoverflow&logoColor=white&link=link)](link) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=instagram.com/mediyardnz_official
+)](instagram.com/mediyardnz_official
+) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-quare&labelColor=blue&logo=Linkedin&logoColor=white&link=linkedin.com/mediyar-bedirhan-deniz)](linkedin.com/mediyar-bedirhan-deniz) 
+[![stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-orange?style=flat-quare&labelColor=orange&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z)](https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z) 
 
 
 
