@@ -15,7 +15,12 @@
 
 
 ###  Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=quare&labelColor=blue&logo=Linkedin&logoColor=white&link=link)]([link](https://www.linkedin.com/in/mediyar-bedirhan-deniz/))
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/mediyardnz_official/)) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=quare&labelColor=blue&logo=Twitter&logoColor=white&link=link)]([link](https://www.twitter.com/mediyardnz_13/))
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-quare&labelColor=orange&logo=StackOverflow&logoColor=white&(https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z)=(https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z))]([(https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z)](https://stackoverflow.com/users/19225655/mediyar-bedirhan-den%c4%b0z))
+[[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/mediyar1304/mediyar1304)](https://github.com/mediyar1304/mediyar1304) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
+[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+
+
+stackoverflow
+twitter
+linkedin
