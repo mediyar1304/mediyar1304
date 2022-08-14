@@ -14,7 +14,7 @@
     
     
 ###
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mediyar1304&theme=dark-gatsby&hide_border=false&disable_animations=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mediyar1304&theme=dracula-gatsby&hide_border=false&disable_animations=true)
 
 
   ###  Connect with me:
