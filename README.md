@@ -5,13 +5,25 @@
 
 
 <!-- ![Readme Resmi](https://media.giphy.com/media/7uDvnHt2pScXMOK6D7/giphy.gif) -->
+  ###  Want to be an expert :
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
+  <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt="Rafa-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
+</div>
 
 
 ### <div align="center">
   <a href="https://github.com/mediyar1304"> 
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=mediyar1304&show_icons=true&theme=radical" alt="Mediyar's github stats"/>
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mediyar1304&layout=compact&langs_count=7&theme=dracula" alt="Mediyar's studied language"/>
-    
+     
     
 ###
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mediyar1304&theme=dracula-gatsby&hide_border=false&disable_animations=true)
@@ -36,8 +48,3 @@
  
                                                                                                    
   ![Profile views](https://gpvc.arturio.dev/mediyar1304)  
-
-
-
-
-
