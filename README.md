@@ -8,7 +8,7 @@
 
 
 ### <div align="center">
-  <a href="https://github.com/mauricioPReis"> 
+  <a href="https://github.com/mediyar1304"> 
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=mediyar1304&show_icons=true&theme=radical" alt="Mediyar's github stats"/>
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mediyar1304&layout=compact&langs_count=7&theme=dracula" alt="Mediyar's studied language"/>
     
