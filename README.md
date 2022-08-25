@@ -46,6 +46,13 @@
   
   
   
+## 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mediyar1304&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Quote Of The Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
                                                                                                    
   ![Profile views](https://gpvc.arturio.dev/mediyar1304)  
