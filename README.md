@@ -1,7 +1,7 @@
 ### Hi everyone <img src="https://media.giphy.com/media/7uDvnHt2pScXMOK6D7/giphy.gif" width="100"> It's Mediyar Bedirhan DENIZ.
 - 🔭 I’m currently working on👉 (FLUTTER)<img src="https://www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png" width="20"> & (DART) <img src="https://miro.medium.com/max/900/0*1QVqmVbbaVm1f_n9.png" width="20"> 
 - 🌱 I’m currently learning👉 HTML,CSS,JAVASCRIPT & JAVA
-- 📫 How to reach me <a href = "mailto:mediyardeniz.1304@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E44059?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 How to reach me <div align="left"><a href="mediyardeniz.1304@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"/></a></div>
 
 
 <!-- ![Readme Resmi](https://media.giphy.com/media/7uDvnHt2pScXMOK6D7/giphy.gif) -->
@@ -33,7 +33,7 @@
   ###  Connect with me:
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/bedirhandnzzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter/mediyardnz_13" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/mediyardnz_13" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mediyar-bedirhan-deniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  
