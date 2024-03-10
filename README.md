@@ -39,9 +39,7 @@
  
 
 
-
-  ![Snake animation](https://github.com/mediyar1304/mediyar1304/blob/output/github-contribution-grid-snake.svg)
-  
+ !<img src="https://raw.githubusercontent.com/mediyar1304/mediyar1304/output/snake.svg" alt="Snake animation" />.
   
   
   
