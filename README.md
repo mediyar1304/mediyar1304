@@ -55,4 +55,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
                                                                                                    
-  ![Profile views](https://gpvc.arturio.dev/mediyar1304) 
+ ###
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/mediyar1304/count.svg?"  />
+</div>
+
+###
