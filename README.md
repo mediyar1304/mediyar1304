@@ -39,7 +39,7 @@
  
 
 
- !<img src="https://raw.githubusercontent.com/mediyar1304/mediyar1304/output/snake.svg" alt="Snake animation" />.
+ <img src="https://raw.githubusercontent.com/mediyar1304/mediyar1304/output/snake.svg" alt="Snake animation" />.
   
   
   
